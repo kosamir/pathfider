@@ -1,1 +1,1 @@
-# algoritm for finding path in ascii map
+# algorithm for finding path in ascii map
