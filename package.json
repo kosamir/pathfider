@@ -1,0 +1,19 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "description": "algorithm for finding path in ascci map",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "npm test && node main.js",
+    "debug": "node --inspect main.js"
+  },
+  "keywords": [],
+  "author": "amirkos <amirkos@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "node-test": "^1.4.6"
+  }
+}
